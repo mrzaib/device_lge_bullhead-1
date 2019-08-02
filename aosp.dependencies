@@ -1,11 +1,5 @@
 [
   {
-    "repository"  : "francois133/flipflop",
-    "target_path" : "kernel/lge/bullhead",
-    "branch"      : "upstream_2",
-    "remote"      : "github"
-  },
-  {
     "repository"  : "lakgarg/proprietary_vendor_lge",
     "target_path" : "vendor/lge",
     "branch"      : "p9.0",
@@ -16,11 +10,5 @@
     "target_path" : "device/google/contexthub",
     "branch"      : "master",
     "remote"      : "github"
-  },
-  {
-    "repository"  : "francois133/gcc_10_toolchain",
-    "target_path" : "prebuilts/gcc_toolchain_10",
-    "branch"      : "master",
-    "remote"      : "gitlab"
   }
 ]
